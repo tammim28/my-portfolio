@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+/* banner section start */
+.hero {
+    background: rgb(30, 30, 30);
+    height: 600px;
+}
+
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 40px;
+    padding-left: 10%;
+    padding-right: 15%;
+}
+
+h2 {
+    color: rgb(253, 111, 0);
+    font-family: Poppins;
+    font-size: 32px;
+    font-weight: 700;
+}
+
+nav ul li {
+    list-style-type: none;
+    display: inline-block;
+    padding: 10px 30px;
+}
+
+nav ul li a {
+    color: rgb(255, 255, 255);
+    font-family: Rubik;
+    font-size: 21px;
+    font-weight: 400;
+}
+
+.common-btn {
+    background: rgb(253, 111, 0);
+    color: rgb(255, 255, 255);
+    font-family: Rubik;
+    font-size: 21px;
+    font-weight: 400;
+    padding: 8px 15px;
+}
+
+/* experience section start */
+.experience{
+    display: flex;
+    background: linear-gradient(-87.34deg, rgba(255, 177, 71, 0.1)
+    rgba(255, 108, 99, 0.1)
+    rgba(184, 106, 223, 0.1)91.686%);
+    height: 550px;
+    padding-top: 120px;
+}
+.detail{
+    border: 2px solid orangered;
+    width: 50%;
+    padding-left: 100px;
+}
+.duration{
+    border: 2px solid red;
+    width: 50%;
+    padding-right: 100px;
+}
+.detail h5{
+    color: rgb(255, 255, 255);
+font-family: Rubik;
+font-size: 18px;
+font-weight: 600;
+}
+.time{
+    display: flex;
+    justify-content: space-between;
+}
