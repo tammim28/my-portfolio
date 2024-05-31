@@ -52,31 +52,201 @@ nav ul li a {
 }
 
 /* experience section start */
-.experience{
+.experience {
     display: flex;
-    background: linear-gradient(-87.34deg, rgba(255, 177, 71, 0.1)
-    rgba(255, 108, 99, 0.1)
-    rgba(184, 106, 223, 0.1)91.686%);
+    background: linear-gradient(-87.34deg, rgba(255, 177, 71, 0.1) rgba(255, 108, 99, 0.1) rgba(184, 106, 223, 0.1)91.686%);
     height: 550px;
     padding-top: 120px;
 }
-.detail{
+
+.detail {
     border: 2px solid orangered;
     width: 50%;
     padding-left: 100px;
 }
-.duration{
+
+.duration {
     border: 2px solid red;
     width: 50%;
     padding-right: 100px;
 }
-.detail h5{
+
+.detail h5 {
     color: rgb(255, 255, 255);
-font-family: Rubik;
-font-size: 18px;
-font-weight: 600;
+    font-family: Rubik;
+    font-size: 18px;
+    font-weight: 600;
 }
-.time{
+
+.time {
     display: flex;
     justify-content: space-between;
+}
+
+/* award start */
+#section{
+    background: rgb(30, 30, 30);
+    height: 2000px
+}
+.heading {
+    text-align: center;
+}
+
+.heading h1 {
+    color: rgb(255, 255, 255);
+    font-family: Rubik;
+    font-size: 40px;
+    font-weight: 800;
+    text-transform: uppercase;
+}
+
+.heading p {
+    color: rgba(255, 255, 255, 0.5);
+    font-family: Rubik;
+    font-size: 18px;
+    font-weight: 400;
+    text-align: center;
+    padding-top: 20px;
+}
+.first-award{
+    width: 1040px;
+    height: 220px;
+    background-color: rgb(0, 0, 0);
+    margin: 0 auto;
+    margin-top: 45px;
+    padding: 45px 55px;
+}
+.second-award{
+    width: 1040px;
+    height: 220px;
+    background-color: rgb(0, 0, 0);
+    margin: 0 auto;
+    margin-top: 25px;
+    padding: 45px 55px;
+    
+}
+
+.name{
+    display: flex;
+    justify-content: space-between;
+}
+.name h5{
+    color: rgb(255, 255, 255);
+font-family: Rubik;
+font-size: 24px;
+font-weight: 400;
+}
+.name h4{
+    color: rgb(255, 255, 255);
+    font-family: Rubik;
+    font-size: 18px;
+    font-weight: 700;
+}
+.text{
+    color: rgba(255, 255, 255, 0.5);
+font-family: Rubik;
+font-size: 18px;
+font-weight: 400;
+text-align: left;
+width: 650px;
+padding-top: 24px;
+}
+/* award end */
+
+/* portfolio start */
+.sub-section{
+    height: 988px;
+    width: 1040px;
+    margin: 0 auto;
+}
+.portfolio-heading{
+    text-align: center;
+}
+.portfolio-heading h1{
+    color: rgb(255, 255, 255);
+font-family: Rubik;
+font-size: 40px;
+font-weight: 800;
+text-transform: uppercase;
+padding-top: 150px;
+}
+.portfolio-heading p{
+    color: rgba(255, 255, 255, 0.5);
+font-family: Rubik;
+font-size: 18px;
+font-weight: 400;
+padding-top: 20px;
+}
+.btn-section{
+    text-align: center;
+    padding-top: 45px;
+    
+}
+.btn-section button{
+    margin-left: 30px;
+}
+.first-btn{
+    box-sizing: border-box;
+    border: 0.4px solid rgb(84, 84, 84);
+    background: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+font-family: Poppins;
+font-size: 24px;
+font-weight: 400;
+padding: 5px 15px;
+}
+.third-btn{
+    box-sizing: border-box;
+    border: 0.4px solid rgb(84, 84, 84);
+    background: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+font-family: Poppins;
+font-size: 24px;
+font-weight: 400;
+line-height: 36px;
+padding: 5px 15px;
+}
+.forth-btn{
+    box-sizing: border-box;
+    border: 0.4px solid rgb(84, 84, 84);
+    background: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+font-family: Poppins;
+font-size: 24px;
+font-weight: 400;
+line-height: 36px;
+padding: 5px 15px;
+}
+.first-portfolio{
+    display: flex;
+    margin-top: 45px;
+    /* justify-content: space-between; */
+}
+.portfolio-text{
+    padding-left: 30px;
+    padding-top: 25px;
+}
+.portfolio-text h6{
+    color: rgb(255, 255, 255);
+    font-family: Rubik;
+    font-size: 18px;
+    font-weight: 600;
+}
+.portfolio-text h1{
+    color: rgb(255, 255, 255);
+    font-family: Rubik;
+    font-size: 40px;
+    font-weight: 700;
+    padding-top: 30px;
+}
+.portfolio-text p{
+    color: rgba(255, 255, 255, 0.5);
+    font-family: Rubik;
+    font-size: 18px;
+    font-weight: 400;
+    padding-top: 25px;
+}
+.second-portfolio{
+    display: flex;
+    margin-top: 50px;
 }
