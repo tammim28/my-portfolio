@@ -27,7 +27,7 @@ h2 {
     font-family: Poppins;
     font-size: 32px;
     font-weight: 700;
-    
+
 }
 
 nav ul li {
@@ -52,166 +52,188 @@ nav ul li a {
     font-weight: 400;
     padding: 8px 15px;
 }
-.banner{
+
+.banner {
     display: flex;
     justify-content: space-between;
     padding-left: 10%;
     padding-right: 12%;
 }
-.banner-img img{
+
+.banner-img img {
     width: 450px;
     height: 550px;
 }
-.designer{
+
+.designer {
     display: flex;
 }
-.work{
+
+.work {
     display: flex;
 }
-.inside-btn{
+
+.inside-btn {
     display: flex;
     color: rgb(255, 255, 255);
-font-family: Rubik;
-font-size: 25.69px;
-font-weight: 400;
-line-height: 30px;
-width: 140px;
-border-radius: 60px;
-height: 50px;
-background: rgb(253, 111, 0);
-padding-left: 20px;
-align-items: center;
-margin-left: 5px;
+    font-family: Rubik;
+    font-size: 25.69px;
+    font-weight: 400;
+    line-height: 30px;
+    width: 140px;
+    border-radius: 60px;
+    height: 50px;
+    background: rgb(253, 111, 0);
+    padding-left: 20px;
+    align-items: center;
+    margin-left: 5px;
 
 }
-.inside-btn img{
+
+.inside-btn img {
     width: 30px;
     height: 30px;
 }
-.banner-btn{
+
+.banner-btn {
     display: flex;
     justify-content: space-between;
     align-items: center;
     box-sizing: border-box;
-border-radius: 50px;
+    border-radius: 50px;
 
-backdrop-filter: blur(15px);
-background: rgba(255, 255, 255, 0.1);
-width: 300px;
-height: 60px;
-margin-top: 30px;
-margin-bottom: 20px;
+    backdrop-filter: blur(15px);
+    background: rgba(255, 255, 255, 0.1);
+    width: 300px;
+    height: 60px;
+    margin-top: 30px;
+    margin-bottom: 20px;
 }
-.banner-btn h5{
+
+.banner-btn h5 {
     color: rgb(255, 255, 255);
-font-family: Rubik;
-font-size: 25.69px;
-font-weight: 400;
-line-height: 30px;
-padding-right: 20px;
+    font-family: Rubik;
+    font-size: 25.69px;
+    font-weight: 400;
+    line-height: 30px;
+    padding-right: 20px;
 }
-.banner-intro h1{
+
+.banner-intro h1 {
     color: rgb(255, 255, 255);
-font-family: Rubik;
-font-size: 40px;
-font-weight: 800;
-text-transform: uppercase;
-margin-top: 127px;
+    font-family: Rubik;
+    font-size: 40px;
+    font-weight: 800;
+    text-transform: uppercase;
+    margin-top: 127px;
 }
-.banner-intro h3{
+
+.banner-intro h3 {
     color: rgb(255, 255, 255);
-font-family: Rubik;
-font-size: 40px;
-font-weight: 800;
-line-height: 47px;
-text-transform: uppercase;
-margin-top: 12px;
-padding-right: 20px;
+    font-family: Rubik;
+    font-size: 40px;
+    font-weight: 800;
+    line-height: 47px;
+    text-transform: uppercase;
+    margin-top: 12px;
+    padding-right: 20px;
 }
-.banner-intro h3 span{
+
+.banner-intro h3 span {
     color: rgb(253, 111, 0);
 }
-.banner-intro p{
+
+.banner-intro p {
     color: rgba(255, 255, 255, 0.5);
-font-family: Rubik;
-font-size: 18px;
-font-weight: 400;
-line-height: 21px;
-margin-top: 12px;
-margin-bottom: 12px;
+    font-family: Rubik;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 21px;
+    margin-top: 12px;
+    margin-bottom: 12px;
 }
-.work h6{
+
+.work h6 {
     color: rgb(255, 255, 255);
-font-family: Rubik;
-font-size: 24px;
-font-weight: 300;
-line-height: 28px;
-text-transform: uppercase;
-margin-right: 10px;
-}
-.banner-intro img{
+    font-family: Rubik;
+    font-size: 24px;
+    font-weight: 300;
+    line-height: 28px;
+    text-transform: uppercase;
     margin-right: 10px;
-    
-    
 }
-.banner-icon i{
+
+.banner-intro img {
+    margin-right: 10px;
+
+
+}
+
+.banner-icon i {
     margin-right: 20px;
     color: rgba(255, 255, 255, 0.5);
 }
-.rotet{
+
+.rotet {
     display: flex;
     height: 120px;
     width: 1350px;
     align-items: center;
     border-radius: 24px 0px 24px 0px;
     transform: rotate(-6.97deg);
-    
 
-background: rgb(0, 0, 0);
+
+    background: rgb(0, 0, 0);
 }
-.rotet p{
+
+.rotet p {
     color: rgb(255, 255, 255);
-font-family: Rubik;
-font-size: 32px;
-font-weight: 400;
-margin-right: 10px;
+    font-family: Rubik;
+    font-size: 32px;
+    font-weight: 400;
+    margin-right: 10px;
 
 }
-.rotet img{
+
+.rotet img {
     height: 34px;
     width: 34px;
     margin-right: 10px;
 }
-.banner-end{
+
+.banner-end {
     margin-top: 160px;
     display: flex;
     justify-content: space-between;
     padding-left: 10%;
     padding-right: 10%;
 }
-.end-text h1{
+
+.end-text h1 {
     color: rgb(255, 255, 255);
-font-family: Rubik;
-font-size: 40px;
-font-weight: 800;
-text-transform: uppercase;
+    font-family: Rubik;
+    font-size: 40px;
+    font-weight: 800;
+    text-transform: uppercase;
 }
-.end-text p{
+
+.end-text p {
     color: rgba(255, 255, 255, 0.5);
-font-family: Rubik;
-font-size: 18px;
-font-weight: 400;
-margin-top: 20px;
+    font-family: Rubik;
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: 20px;
 }
-.review h1{
+
+.review h1 {
     color: rgb(255, 255, 255);
-font-family: Rubik;
-font-size: 47px;
-font-weight: 700;
-/* line-height: 100%; */
-text-align: center;
+    font-family: Rubik;
+    font-size: 47px;
+    font-weight: 700;
+    text-align: center;
 }
-.review p{
+
+.review p {
     color: rgb(255, 255, 255);
     font-family: Rubik;
     font-size: 20px;
@@ -219,18 +241,19 @@ text-align: center;
     line-height: 100%;
     text-align: center;
     margin-right: -95px;
-    
+
 }
-.review{
+
+.review {
     text-align: right;
 }
+
 /* experience section start */
 .experience {
     display: flex;
-    background: rgb(63,38,78);
-    background: linear-gradient(106deg, rgba(63,38,78,1) 10%, rgba(56,44,97,1) 52%, rgba(106,47,19,1) 100%);
+    background: rgb(63, 38, 78);
+    background: linear-gradient(106deg, rgba(63, 38, 78, 1) 10%, rgba(56, 44, 97, 1) 52%, rgba(106, 47, 19, 1) 100%);
     height: 550px;
-    /* padding-top: 120px; */
 }
 
 .detail {
@@ -253,46 +276,52 @@ text-align: center;
     font-weight: 600;
     padding-bottom: 20px;
 }
-.detail h1{
+
+.detail h1 {
     color: rgb(255, 255, 255);
-font-family: Rubik;
-font-size: 40px;
-font-weight: 700;
-text-transform: uppercase;
-padding-bottom: 20px;
+    font-family: Rubik;
+    font-size: 40px;
+    font-weight: 700;
+    text-transform: uppercase;
+    padding-bottom: 20px;
 }
-.detail p{
+
+.detail p {
     color: rgb(255, 255, 255);
-font-family: Rubik;
-font-size: 18px;
-font-weight: 400;
+    font-family: Rubik;
+    font-size: 18px;
+    font-weight: 400;
 }
-.duration h5{
+
+.duration h5 {
     color: rgb(255, 255, 255);
-font-family: Rubik;
-font-size: 18px;
-font-weight: 700;
-padding-bottom: 12px;
-padding-top: 20px;
+    font-family: Rubik;
+    font-size: 18px;
+    font-weight: 700;
+    padding-bottom: 12px;
+    padding-top: 20px;
 }
-.duration h6{
+
+.duration h6 {
     color: rgb(255, 255, 255);
-font-family: Rubik;
-font-size: 16px;
-font-weight: 400;
-padding-top: 15px;
+    font-family: Rubik;
+    font-size: 16px;
+    font-weight: 400;
+    padding-top: 15px;
 }
-.duration h1{
+
+.duration h1 {
     color: rgb(255, 255, 255);
-font-family: Rubik;
-font-size: 32px;
-font-weight: 700;
-text-transform: uppercase;
-padding-bottom: 20px;
+    font-family: Rubik;
+    font-size: 32px;
+    font-weight: 700;
+    text-transform: uppercase;
+    padding-bottom: 20px;
 }
-hr{
+
+hr {
     border: 1px solid rgb(255, 255, 255);
-opacity: 0.2;
+    opacity: 0.2;
 
 }
 
@@ -302,10 +331,11 @@ opacity: 0.2;
 }
 
 /* award start */
-#section{
+#section {
     background: rgb(30, 30, 30);
-    height: 2000px;  
+    height: 2000px;
 }
+
 .heading {
     text-align: center;
     padding-top: 150px;
@@ -327,7 +357,8 @@ opacity: 0.2;
     text-align: center;
     padding-top: 20px;
 }
-.first-award{
+
+.first-award {
     width: 1040px;
     height: 220px;
     background-color: rgb(0, 0, 0);
@@ -335,268 +366,305 @@ opacity: 0.2;
     margin-top: 45px;
     padding: 45px 55px;
 }
-.second-award{
+
+.second-award {
     width: 1040px;
     height: 220px;
     background-color: rgb(0, 0, 0);
     margin: 0 auto;
     margin-top: 25px;
     padding: 45px 55px;
-    
+
 }
 
-.name{
+.name {
     display: flex;
     justify-content: space-between;
 }
-.name h5{
+
+.name h5 {
     color: rgb(255, 255, 255);
-font-family: Rubik;
-font-size: 24px;
-font-weight: 400;
+    font-family: Rubik;
+    font-size: 24px;
+    font-weight: 400;
 }
-.name h4{
+
+.name h4 {
     color: rgb(255, 255, 255);
     font-family: Rubik;
     font-size: 18px;
     font-weight: 700;
 }
-.text{
+
+.text {
     color: rgba(255, 255, 255, 0.5);
-font-family: Rubik;
-font-size: 18px;
-font-weight: 400;
-text-align: left;
-width: 650px;
-padding-top: 24px;
+    font-family: Rubik;
+    font-size: 18px;
+    font-weight: 400;
+    text-align: left;
+    width: 650px;
+    padding-top: 24px;
 }
+
 /* award end */
 
 /* portfolio start */
-.sub-section{
+.sub-section {
     height: 988px;
     width: 1040px;
     margin: 0 auto;
 }
-.portfolio-heading{
+
+.portfolio-heading {
     text-align: center;
 }
-.portfolio-heading h1{
+
+.portfolio-heading h1 {
     color: rgb(255, 255, 255);
-font-family: Rubik;
-font-size: 40px;
-font-weight: 800;
-text-transform: uppercase;
-padding-top: 150px;
+    font-family: Rubik;
+    font-size: 40px;
+    font-weight: 800;
+    text-transform: uppercase;
+    padding-top: 150px;
 }
-.portfolio-heading p{
+
+.portfolio-heading p {
     color: rgba(255, 255, 255, 0.5);
-font-family: Rubik;
-font-size: 18px;
-font-weight: 400;
-padding-top: 20px;
+    font-family: Rubik;
+    font-size: 18px;
+    font-weight: 400;
+    padding-top: 20px;
 }
-.btn-section{
+
+.btn-section {
     text-align: center;
     padding-top: 45px;
-    
+
 }
-.btn-section button{
+
+.btn-section button {
     margin-left: 30px;
 }
-.first-btn{
+
+.first-btn {
     box-sizing: border-box;
     border: 0.4px solid rgb(84, 84, 84);
     background: rgb(0, 0, 0);
     color: rgb(255, 255, 255);
-font-family: Poppins;
-font-size: 24px;
-font-weight: 400;
-padding: 5px 15px;
+    font-family: Poppins;
+    font-size: 24px;
+    font-weight: 400;
+    padding: 5px 15px;
 }
-.third-btn{
+
+.third-btn {
     box-sizing: border-box;
     border: 0.4px solid rgb(84, 84, 84);
     background: rgb(0, 0, 0);
     color: rgb(255, 255, 255);
-font-family: Poppins;
-font-size: 24px;
-font-weight: 400;
-line-height: 36px;
-padding: 5px 15px;
+    font-family: Poppins;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 36px;
+    padding: 5px 15px;
 }
-.forth-btn{
+
+.forth-btn {
     box-sizing: border-box;
     border: 0.4px solid rgb(84, 84, 84);
     background: rgb(0, 0, 0);
     color: rgb(255, 255, 255);
-font-family: Poppins;
-font-size: 24px;
-font-weight: 400;
-line-height: 36px;
-padding: 5px 15px;
+    font-family: Poppins;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 36px;
+    padding: 5px 15px;
 }
-.first-portfolio{
+
+.first-portfolio {
     display: flex;
     margin-top: 45px;
-    /* justify-content: space-between; */
 }
-.portfolio-text{
+
+.portfolio-text {
     padding-left: 30px;
     padding-top: 25px;
 }
-.portfolio-text h6{
+
+.portfolio-text h6 {
     color: rgb(255, 255, 255);
     font-family: Rubik;
     font-size: 18px;
     font-weight: 600;
 }
-.portfolio-text h1{
+
+.portfolio-text h1 {
     color: rgb(255, 255, 255);
     font-family: Rubik;
     font-size: 40px;
     font-weight: 700;
     padding-top: 30px;
 }
-.portfolio-text p{
+
+.portfolio-text p {
     color: rgba(255, 255, 255, 0.5);
     font-family: Rubik;
     font-size: 18px;
     font-weight: 400;
     padding-top: 25px;
 }
-.second-portfolio{
+
+.second-portfolio {
     display: flex;
     margin-top: 50px;
 }
+
 /* portfolio end */
 
 /* contact info start */
-.contact-heading{
+.contact-heading {
     text-align: center;
 }
-.contact-heading h6{
+
+.contact-heading h6 {
     color: rgb(255, 255, 255);
-font-family: Rubik;
-font-size: 18px;
-font-weight: 600;
+    font-family: Rubik;
+    font-size: 18px;
+    font-weight: 600;
 }
-.contact-heading h1{
+
+.contact-heading h1 {
     color: rgb(255, 255, 255);
-font-family: Rubik;
-font-size: 40px;
-font-weight: 700;
-text-transform: uppercase;
-padding-top: 15px;
-padding-bottom: 50px;
+    font-family: Rubik;
+    font-size: 40px;
+    font-weight: 700;
+    text-transform: uppercase;
+    padding-top: 15px;
+    padding-bottom: 50px;
 }
-.contact-section{
+
+.contact-section {
     background: rgb(30, 30, 30);
     width: 1350px;
     height: 800px;
 }
-.form{
+
+.form {
     width: 1040px;
     height: 550px;
     background: rgba(253, 111, 0, 0.1);
     margin: 0 auto;
     margin-bottom: 100px;
 }
-.input{
+
+.input {
     display: flex;
     justify-content: space-between;
     padding: 50px 100px;
     outline: none;
 }
-.input p{
+
+.input p {
     padding-left: 50px;
 }
-form textarea{
+
+form textarea {
     display: block;
     margin: 0 auto;
     width: 80%;
     margin-top: 20px;
 }
-form p{
+
+form p {
     padding-left: 140px;
     color: rgba(255, 255, 255, 0.8);
-font-family: Rubik;
-font-size: 16px;
-font-weight: 400;
-text-transform: uppercase;
+    font-family: Rubik;
+    font-size: 16px;
+    font-weight: 400;
+    text-transform: uppercase;
 }
-form h1{
+
+form h1 {
     color: rgb(255, 255, 255);
-font-family: Rubik;
-font-size: 40px;
-font-weight: 700;
-text-transform: uppercase;
-padding-left: 100px;
-padding-top: 60px;
+    font-family: Rubik;
+    font-size: 40px;
+    font-weight: 700;
+    text-transform: uppercase;
+    padding-left: 100px;
+    padding-top: 60px;
 }
-form i{
+
+form i {
     padding-left: 100px;
     margin-top: 20px;
 }
-.attach{
+
+.attach {
     margin-top: -19px;
 }
-.form button{
+
+.form button {
     margin-left: 110px;
     margin-top: 20px;
 }
+
 /* contact info end */
 
 /* footer section start */
-.footer-nav{
+.footer-nav {
     display: flex;
     justify-content: center;
-    /* padding-left: 20px; */
 }
-.footer-nav ul{
+
+.footer-nav ul {
     display: flex;
-    /* border: 2px solid red; */
-    
+
 }
-.footer-nav li{
-    /* display: inline-block; */
+
+.footer-nav li {
     align-items: center;
     margin: 0 auto;
     list-style-type: none;
-    
+
 }
-.footer-nav li a{
+
+.footer-nav li a {
     text-decoration: none;
     padding-left: 25px;
     color: rgb(255, 255, 255);
-font-family: Poppins;
-font-size: 21px;
-font-weight: 400;
+    font-family: Poppins;
+    font-size: 21px;
+    font-weight: 400;
 
 }
-footer{
+
+footer {
     background: rgb(0, 0, 0);
     height: 450px;
 }
-footer h1{
+
+footer h1 {
     text-align: center;
     color: rgb(253, 111, 0);
-font-family: Poppins;
-font-size: 64px;
-font-weight: 700;
-padding-top: 80px;
-padding-bottom: 40px;
+    font-family: Poppins;
+    font-size: 64px;
+    font-weight: 700;
+    padding-top: 80px;
+    padding-bottom: 40px;
 }
-.footer-icon{
+
+.footer-icon {
     color: rgb(255, 255, 255);
     display: flex;
     margin-top: 80px;
     justify-content: center;
 }
-.footer-icon i{
+
+.footer-icon i {
     margin-left: 20px;
 }
-.copyright-text{
+
+.copyright-text {
     background: rgb(18, 18, 18);
     height: 70px;
     margin-top: 50px;
@@ -605,7 +673,10 @@ padding-bottom: 40px;
     align-items: center;
     justify-content: center;
 }
-.copyright-text span{
+
+.copyright-text span {
     color: rgb(253, 111, 0);
 }
+
 /* footer section end */
+

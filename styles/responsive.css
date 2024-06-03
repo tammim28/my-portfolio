@@ -1,0 +1,18 @@
+@media only screen and (max-width: 576px) {
+    nav{
+        display: flex;
+        flex-direction: column;
+        
+    }
+    .banner{
+        display: flex;
+        flex-direction: column;
+    }
+    .banner-intro{
+        width: 100%;
+    }
+    nav ul li{
+        display: flex;
+        flex-direction: column;
+    }
+}
